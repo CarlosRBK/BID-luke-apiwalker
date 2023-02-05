@@ -1,0 +1,59 @@
+.formularioDatos {
+    margin-top: 15px;
+    background-color: #0D0D0D;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+}
+
+.container{
+    background-color: black;
+}
+
+.btn {
+    height: 40px;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+select{
+    border-radius: 5px;
+    font-weight: bold;
+    height: 40px;
+    display: flex;
+    cursor: pointer;
+}
+
+input {
+    font-weight: bold;
+    height: 35px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.form-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.informacionDatos{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.dates {
+    margin:15px;
+    min-height: 40px;
+    background-color: red;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    border-radius: 5px;
+}
